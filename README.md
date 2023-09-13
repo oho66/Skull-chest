@@ -11,9 +11,9 @@ The bokoblin chest is divided into two parts which are top and bottom. The shaft
 Solidworks, Rhinocero Modelling, PLC and Auduino. 
 
 ## How is it made?
-*2D Engineeing drawing and 3D CAD modelling were created for bokoblin chest assembly by using **Solidworks** and **Rhinocero**.
-*Includes Arduino nano, vibration sensor, servo motor, LED light strip and PLC electric design.
-*Fibricated using rapid prototyping method such as 3D printing
+-2D Engineeing drawing and 3D CAD modelling were created for bokoblin chest assembly by using **Solidworks** and **Rhinocero**.
+-Includes Arduino nano, vibration sensor, servo motor, LED light strip and PLC electric design.
+-Fibricated using rapid prototyping method such as 3D printing
 
 ## What can it achieve?
 Auto opening and closing, LED light color changes and produced sounds as tapping the box can be achieved. 
