@@ -20,3 +20,7 @@ Auto opening and closing, LED light color changes and produced sounds as tapping
 The chest can open and close itself if detecting applied force with vibration sensor. As the chest opens, the color of eyes will be changed from purple to orange. It will also produce the same sounds game produced in Zelda at the same time.
 
 However, the project is still on the first stage of making models and assembling them. 
+
+Updates: Models are 3D Printed and assembled as shown below. 
+
+![Alt text](file:///C:/Users/98547/Documents/WeChat%20Files/wxid_jgwod6i5x3hf22/FileStorage/Temp/4e188075f319ca2a8c62bd7a79b7e94.jpg)
