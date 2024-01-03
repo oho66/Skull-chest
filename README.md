@@ -23,4 +23,4 @@ However, the project is still on the first stage of making models and assembling
 
 Updates: Models are 3D Printed and assembled as shown below. 
 
-![Alt text](file:///C:/Users/98547/Documents/WeChat%20Files/wxid_jgwod6i5x3hf22/FileStorage/Temp/4e188075f319ca2a8c62bd7a79b7e94.jpg)
+![Alt text](https://github.com/oho66/Skull-chest/blob/main/chest.jpg)
